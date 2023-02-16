@@ -1,0 +1,16 @@
+
+<html>
+  <head>
+    <style>
+      .lab {
+        background: linear-gradient(to right, red, orange, yellow, green, red, crimson, orange);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <p class="lab">Pelin Natalia</p>
+  </body>
+</html>
